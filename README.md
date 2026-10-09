@@ -1,4 +1,4 @@
-Hi, I'm Deepika S! 👋
+**Hi, I'm Deepika S! 👋**
 
 AI & Data Science Graduate | Full Stack Developer
 
