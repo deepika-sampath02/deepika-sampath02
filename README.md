@@ -1,6 +1,6 @@
-**Hi, I'm Deepika S! 👋**
+# Hi, I'm Deepika S! 👋
 
-AI & Data Science Graduate | Full Stack Developer
+### 💻 AI & Data Science Graduate | Full Stack Developer
 
 I'm an AI & Data Science graduate passionate about building AI-powered applications, full-stack web applications, and database-driven solutions.
 
